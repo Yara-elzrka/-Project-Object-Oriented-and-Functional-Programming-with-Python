@@ -1,4 +1,3 @@
-# -Project-Object-Oriented-and-Functional-Programming-with-Python
 # Dream Track – Habit Tracker
 
 ## Description
